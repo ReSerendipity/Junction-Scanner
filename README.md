@@ -1,3 +1,12 @@
+> **状态：暂时归档（Temporary Archive）｜2026-11-07**
+>
+> 本仓库处于 GitHub 只读归档状态。这是**暂时归档**，不是永久归档，也不代表项目终止。
+> 归档期间，代码、提交历史以及已有的 Release / Pages 保持可访问；公开仓可克隆、Star、Fork，私有仓仅限现有协作者。不能提交代码、发起 Issue / PR、评论或发布新版本。
+> 恢复开发时，由仓库所有者解除归档（unarchive），更新本声明，并同步修改治理台账中的 `lifecycle`。
+> 治理口径见 [ReSerendipity/.github 治理规范 §15.7](https://github.com/ReSerendipity/.github/blob/main/governance/REPOSITORY_GUIDELINES.md)。
+
+---
+
 # JunctionScanner
 
 Windows 下扫描 **重解析点（reparse point）** 的小工具：枚举 junction（目录联接）、目录/文件符号链接，检测失效（断链）目标，并支持导出 CSV。
